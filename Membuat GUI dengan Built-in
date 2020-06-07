@@ -13,4 +13,3 @@ tombol = tkinter.Button(main_window, text="tekan akuh", command = event_tekan)
 label.pack()
 tombol.pack()
 main_window.mainloop()
-© 2020 GitHub, Inc.
